@@ -15,7 +15,6 @@ tubuhnya, atau saat kita berhasil mencapai target.
 | Game Designer | Project Manager | Game Programmer |
 | ----- | ----- | ----- |
 | Daffa Wicaksono | Dharmawan Siswanto | M Alif Hanif F |
-| ----- | ----- | ----- |
 | G64170061 | G64170066 | G64170084 |
 
 ### Technology
