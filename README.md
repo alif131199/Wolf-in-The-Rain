@@ -2,7 +2,7 @@
 Permainan seperti Green Light-Red Light, atau Daruma-san.
 
 Kita bermain sebagai monster serigala, yang memiliki tujuan
-untuk memburu dan memangsa manusia yang masuk ke dalam hutannya.
+untuk memburu dan memangsa manusia yang masuk ke dalam hutan.
 
 Setiap beberapa detik, manusia itu akan membalikkan tubuhnya, dan 
 pada saat itu kita tidak boleh bergerak, agar tidak ketahuan. 
