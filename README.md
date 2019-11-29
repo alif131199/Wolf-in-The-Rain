@@ -2,7 +2,7 @@
 Permainan seperti Green Light-Red Light, atau Daruma-san.
 
 Kita bermain sebagai monster serigala, yang memiliki tujuan
-untuk memburu dan memangsa manusia yang masuk ke dalam hutannya.
+untuk memburu dan memangsa manusia yang masuk ke dalam hutan.
 
 Setiap beberapa detik, manusia itu akan membalikkan tubuhnya, dan 
 pada saat itu kita tidak boleh bergerak, agar tidak ketahuan. 
@@ -15,7 +15,6 @@ tubuhnya, atau saat kita berhasil mencapai target.
 | Game Designer | Project Manager | Game Programmer |
 | ----- | ----- | ----- |
 | Daffa Wicaksono | Dharmawan Siswanto | M Alif Hanif F |
-| ----- | ----- | ----- |
 | G64170061 | G64170066 | G64170084 |
 
 ### Technology
