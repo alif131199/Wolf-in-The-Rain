@@ -53,4 +53,4 @@ Win:
 ![Win](SS-Win.jpg)
 
 ### Video Gameplay 
-[//](WolfVideoDemo.mp4)
+[Klik di sini](WolfVideoDemo.mp4)
