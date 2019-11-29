@@ -27,8 +27,6 @@ tubuhnya, atau saat kita berhasil mencapai target.
 
 
 ### Gameplay
-[//]: # (Screenshot gameplay)
-[//]: # (link video gameplay)
 
 Game ini adalah game third person perspective, control dasarnya adalah :
 
@@ -39,3 +37,6 @@ Game ini adalah game third person perspective, control dasarnya adalah :
 | S | Jalan Mundur |
 | D | Jalan Ke kanan |
 
+### Screenshot 
+
+### Video Gameplay 
