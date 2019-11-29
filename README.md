@@ -39,4 +39,17 @@ Game ini adalah game third person perspective, control dasarnya adalah :
 
 ### Screenshot 
 
+Main Menu:
+![Main Menu](SS-Menu.jpg)
+
+Gameplay:
+![Gameplay](SS-Gameplay1.jpg)
+![Gameplay](SS-Gameplay2.jpg)
+
+Game Over:
+![Game Over](SS-Lose.jpg)
+
+Win:
+![Win](SS-Win.jpg)
+
 ### Video Gameplay 
